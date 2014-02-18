@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidContactViewer.iml" filepath="$PROJECT_DIR$/AndroidContactViewer.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContactViewer.iml" filepath="$PROJECT_DIR$/ContactViewer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ContactViewer/ContactViewer-ContactViewer.iml" filepath="$PROJECT_DIR$/ContactViewer/ContactViewer-ContactViewer.iml" />
     </modules>
   </component>
 </project>
